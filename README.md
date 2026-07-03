@@ -33,6 +33,8 @@ I'm 17 and have been programming since my 12th birthday! I started with Roblox g
 
 ### [LLM *(Work in Progress)*](https://github.com/mayveiscous/basic-llm)
 
+![Demo](assets/llmExample.png)
+
 A transformer-based language model built entirely from scratch in Go, including a custom tensor library, basic BPE tokenizer, automatic differentiation, and training pipeline.
 
 This project is where I'm learning the mathematics and engineering behind modern AI systems. I plan on open-sourcing the tensor library (and maybe the tokenizer!) for others who are curious about machine learning in Go.
