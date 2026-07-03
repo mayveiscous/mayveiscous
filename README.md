@@ -1,6 +1,7 @@
-# mayveiscous
-
-Aspiring ML Infrastructure Engineer interested in building AI systems, compilers, and low-level software **from scratch.**
+┌────────────────────────────────────────────────────────────┐
+│                      mayveiscous                           │
+│        ML Infrastructure • Systems • Compilers            │
+└────────────────────────────────────────────────────────────┘
 
 Currently focused on:
 * Large Language Models
@@ -11,33 +12,29 @@ Currently focused on:
 ## Tech Stack
 
 ### Languages
-- Go
-- Python
-- Lua
-- C++
-- JavaScript
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI & Machine Learning
-- Transformer Models
-- Automatic Differentiation
-- Tokenization
-- Gradient Descent
+
+![Transformers](https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge)
+![Autograd](https://img.shields.io/badge/Automatic_Differentiation-4CAF50?style=for-the-badge)
+![Tokenization](https://img.shields.io/badge/Tokenization-FF9800?style=for-the-badge)
+![Gradient Descent](https://img.shields.io/badge/Gradient_Descent-E91E63?style=for-the-badge)
 
 ### Systems
-- Virtual Machines
-- Emulation
-- Language Server Protocol (LSP)
-- Language Interpretation
-- Tokenization
-- Parsing
 
-### Tools & Technologies
-- Git
-- GitHub
-- JSON
-- REST APIs
-- HTTP
-- TCP/IP
+![Compilers](https://img.shields.io/badge/Compilers-607D8B?style=for-the-badge)
+![LSP](https://img.shields.io/badge/LSP-00BCD4?style=for-the-badge)
+![Virtual Machines](https://img.shields.io/badge/Virtual_Machines-795548?style=for-the-badge)
+![Parsing](https://img.shields.io/badge/Parsing-3F51B5?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP-009688?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-673AB7?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST_API-FF5722?style=for-the-badge)
 
 ## Who am I
 
