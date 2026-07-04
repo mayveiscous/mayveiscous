@@ -4,7 +4,7 @@
 
 ## Who am I
 
-I'm 17 and have been programming since my 12th birthday! I started with Roblox game development (and still occasionally go back to it), but quickly became interested in, pyhsics simulations, systems programming, and AI.
+I'm 17 and have been programming since my 12th birthday! I started with Roblox game development (and still occasionally go back to it), but quickly became interested in pyhsics simulations, systems programming, and AI\ML.
 
 ### Currently Focused On
 
