@@ -1,16 +1,17 @@
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mayveiscous&label=Profile+Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/mayveiscous?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/mayveiscous?affiliations=OWNER&style=flat" />
 </p>
 
 # Hi, I'm Luna!
+> Language Designer • Engine Developer
 
 I'm a systems programmer interested in game engines, game development, programming languages, AI infrastructure, and language interoperability.
 
-I primarily use Lua, Go, and C++ but I also know Python, Luau and a little Java
+I primarily work in Lua, Go, and C++ but I also utilizd Python, Luau and a little Java!
 
-Currently building:
+Currently creating:
 - A Roblox-inspired game engine in Lua + C++
 - Luna, a CPython embedder for Lua in C++
 - Tunascript, a scripting language written in Go
@@ -20,13 +21,13 @@ Currently building:
 
 ## Featured Projects
 
-### [Luna](https://github.com/mayveiscous/Luna)
+### 🚀 [Luna](https://github.com/mayveiscous/Luna)
 A C++ bridge that embeds Python libraries into Lua, allowing Lua programs to directly use Python packages such as NumPy.
 
-### [LLM *(Work in Progress)*](https://github.com/mayveiscous/basic-llm)
+### 🦀 [LLM *(Work in Progress)*](https://github.com/mayveiscous/basic-llm)
 A transformer language model built from scratch in Go, including a tensor library, automatic differentiation, tokenizer, and training pipeline.
 
-### [Tunascript](https://github.com/mayveiscous/tunascript)
+### 🎣 [Tunascript](https://github.com/mayveiscous/tunascript)
 A Lua-inspired programming language written in Go featuring a Pratt parser, interpreter, standard library, and Language Server Protocol implementation.
 
 ---
