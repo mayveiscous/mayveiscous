@@ -4,10 +4,6 @@
   <img src="https://img.shields.io/github/stars/mayveiscous?affiliations=OWNER&style=flat" />
 </p>
 
-<p align="center">
-  <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=mayveiscous&show_icons=true />
-</p>
-
 # Hi, I'm Luna!
 
 I'm a systems programmer interested in game engines, game development, programming languages, AI infrastructure, and language interoperability.
