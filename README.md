@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner">
+  <img src="https://komarev.com/ghpvc/?username=mayveiscous&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/mayveiscous?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/mayveiscous?affiliations=OWNER&style=flat" />
 </p>
 
 # Hi, I'm Luna!
