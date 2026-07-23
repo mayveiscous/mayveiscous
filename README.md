@@ -8,9 +8,9 @@ I'm a systems programmer interested in game engines, game development, programmi
 
 Currently building:
 - A Roblox-inspired game engine in Lua + C++
-- Luna, a Python embedder named after myself in C++
+- Luna, a CPython embedder for Lua in C++
 - Tunascript, a scripting language written in Go
-- A transformer-based, GPT style LLM from scratch in Go
+- A transformer based LLM from scratch in Go
 
 ---
 
@@ -35,7 +35,17 @@ A Lua-inspired programming language written in Go featuring a Pratt parser, inte
 - C++
 - Python
 
-**Interests**
+**Tools**
+- Git
+- JSON
+- HTTP
+- CPython API
+- HTML5 / CSS
+- OpenGL
+- GLFW
+- Dear ImGui
+
+**Focuses**
 - Game Engines
 - Game Development
 - Programming Languages
