@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayveiscous&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayveiscous&layout=compact&hide_border=true" />
+  <img src=https://github-readme-stats-sigma-five.vercel.app/api?username=mayveiscous&show_icons=true />
 </p>
 
 # Hi, I'm Luna!
