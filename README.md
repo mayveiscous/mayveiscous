@@ -8,6 +8,8 @@
 
 I'm a systems programmer interested in game engines, game development, programming languages, AI infrastructure, and language interoperability.
 
+I primarily use Lua, Go, and C++ but I also know Python, Luau and a little Java
+
 Currently building:
 - A Roblox-inspired game engine in Lua + C++
 - Luna, a CPython embedder for Lua in C++
@@ -26,33 +28,6 @@ A transformer language model built from scratch in Go, including a tensor librar
 
 ### [Tunascript](https://github.com/mayveiscous/tunascript)
 A Lua-inspired programming language written in Go featuring a Pratt parser, interpreter, standard library, and Language Server Protocol implementation.
-
----
-
-## Technologies
-
-**Languages**
-- Go
-- Lua / Luau
-- C++
-- Python
-
-**Tools**
-- Git
-- JSON
-- HTTP
-- CPython API
-- HTML5 / CSS
-- OpenGL
-- GLFW
-- Dear ImGui
-
-**Focuses**
-- Game Engines
-- Game Development
-- Programming Languages
-- AI Infrastructure
-- Machine Learning
 
 ---
 
