@@ -8,6 +8,8 @@ I'm 17 and have been programming since my 12th birthday! I started with Roblox g
 
 ### Currently Focused On
 
+* Game Engines
+* Language Embedding
 * Large Language Models
 * ML Infrastructure
 * Systems Programming
@@ -19,9 +21,12 @@ I'm 17 and have been programming since my 12th birthday! I started with Roblox g
 * Continue developing my LLM, orienting it toward professional capabilities in Tunascript.
 * Build more projects in Python, Lua, and C++, and upload older projects to GitHub.
 * Learn more about high-performance computing and large-scale AI systems.
+* Complete and use my in-house game engine for a game.
 
 ### Interests
 
+* Game Development
+* Engine Development
 * Machine Learning Infrastructure
 * Artificial Intelligence
 * Language Development
@@ -45,11 +50,11 @@ This project is where I'm learning the mathematics and engineering behind modern
 
 I'm the creator of **Tunascript**, a Lua-inspired programming language written in Go featuring a Pratt parser, tree-walk interpreter, and built entirely using the Go standard library.
 
-I initially started this project to learn Go's unique syntax, but quickly got hooked on language development and decided to take Tunascript to the next level.
+I initially started this project to learn Go's syntax, but quickly got hooked on language development and decided to take Tunascript to the next level.
 
 It has grown into a capable scripting language with an extensive standard library, objects, modules, and more. *(You should totally check it out!)*
 
-I also developed a **Language Server Protocol (LSP)** implementation for Tunascript. Unfortunately, recent computer issues resulted in losing the project before it had been backed up to GitHub.
+I also developed a **Language Server Protocol (LSP)** implementation for Tunascript!
 
 ---
 
@@ -62,11 +67,11 @@ This project may very well be my favourite. It also contains some of the cleanes
 ## Tech Stack
 
 ### Languages
-* Go
 * Lua
+* Luau
+* Go
 * Python
 * C++
-* JavaScript
 
 ### AI & Machine Learning
 
@@ -79,7 +84,6 @@ This project may very well be my favourite. It also contains some of the cleanes
 
 * Virtual Machines
 * Emulation
-* Language Server Protocol (LSP)
 * Language Interpretation
 * Parsing
 * Physics Simulations
@@ -91,9 +95,7 @@ This project may very well be my favourite. It also contains some of the cleanes
 * JSON
 * HTML5
 * CSS
-* REST APIs
 * HTTP
-* TCP/IP
 
 ---
 
